@@ -1,0 +1,8 @@
+{
+  "name": "basicapp",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
